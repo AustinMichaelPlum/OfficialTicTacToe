@@ -1,2 +1,2 @@
-# Claude1stProject
-
+# Official Tic Tac Toe
+This is my first python project that I have published to GitHub. It all start when I was born. I was the most intelligent baby that was born in that hospital -- nay, the entire western half of the continent; from there I only grew my intelligence...
